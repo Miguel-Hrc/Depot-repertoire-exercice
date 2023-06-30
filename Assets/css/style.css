@@ -5,3 +5,13 @@
     margin-top: 5%;
     box-shadow: 0 0 10px rgba(255,255,255,0.7) ;
 }
+
+#page_footer_networks_img {
+    width: 100px;
+    height: auto;
+}
+
+#page_footer_networks_img_2 {
+    width: 100px;
+    height: auto;
+}
