@@ -31,6 +31,11 @@ body{
     box-shadow: 0 0 10px rgba(255,255,255,0.7) ;
 }
 
+.page_header_title{
+    color: white;
+    font-family: 'Lato', sans-serif;
+}
+
 .page_main_nav{
     background: #2c1d27;
     display: flex;
