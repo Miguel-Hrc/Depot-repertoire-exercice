@@ -42,6 +42,24 @@ body{
     box-sizing: border-box;
 }
 
+.page_main_mainContent{
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+}
+
+.page_main_mainContent_left{
+    width: 30%;
+    padding-right: 5%;
+    box-sizing: border-box;
+}
+
+.page_main_mainContent_right{
+    width: 100%;
+    background-color: white;
+    box-sizing: border-box;
+}
+
 #page_footer_networks_img_2 {
     width: 100px;
     height: auto;
