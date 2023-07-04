@@ -31,6 +31,17 @@ body{
     box-shadow: 0 0 10px rgba(255,255,255,0.7) ;
 }
 
+.page_main_nav{
+    background: #2c1d27;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 5%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    box-sizing: border-box;
+}
+
 #page_footer_networks_img_2 {
     width: 100px;
     height: auto;
