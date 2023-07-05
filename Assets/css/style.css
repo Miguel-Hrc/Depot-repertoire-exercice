@@ -104,6 +104,16 @@ body{
     box-sizing: border-box;
 }
 
+.page_main_mainContent_right_title{
+    color: black;
+    font-family: 'Lato', sans-serif; 
+    background-color: #dbc2a4;
+    padding-left: 5%;
+    margin-left: 5%;
+    padding: 1%;
+    margin-right: 5%;
+}
+
 #page_footer_networks{
     display: flex;
     flex-direction: row;
