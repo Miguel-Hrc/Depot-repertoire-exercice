@@ -60,6 +60,12 @@ body{
     box-sizing: border-box;
 }
 
+.page_main_nav_content{
+    text-decoration: none;
+    color: white;
+    font-family: 'Lato', sans-serif;  
+}
+
 .page_main_mainContent{
     display: flex;
     flex-direction: row;
