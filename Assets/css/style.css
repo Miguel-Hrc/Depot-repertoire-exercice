@@ -78,6 +78,14 @@ body{
     box-sizing: border-box;
 }
 
+.page_main_mainContent_left_title{
+    color: black;
+    font-family: 'Lato', sans-serif; 
+    background-color: #dbc2a4;
+    padding-left: 10%;
+    padding: 3%;
+}
+
 .page_main_mainContent_right{
     width: 100%;
     background-color: white;
