@@ -86,6 +86,13 @@ body{
     padding: 3%;
 }
 
+.page_main_mainContent_left_description_content{
+    color: white;
+    font-family: 'Raleway', serif; 
+    padding-left: 5%;
+    text-indent: 15%;
+}
+
 .page_main_mainContent_right{
     width: 100%;
     background-color: white;
