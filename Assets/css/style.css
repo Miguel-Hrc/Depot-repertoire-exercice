@@ -114,6 +114,13 @@ body{
     margin-right: 5%;
 }
 
+.page_main_mainContent_right_content{
+    list-style: none;
+    color: black;
+    font-family: 'Raleway', serif; 
+    padding-left: 2%;
+}
+
 #page_footer_networks{
     display: flex;
     flex-direction: row;
