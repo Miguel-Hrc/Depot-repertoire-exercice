@@ -93,6 +93,11 @@ body{
     text-indent: 15%;
 }
 
+.page_main_mainContent_left_list_content{
+    color: white;
+    font-family: 'Raleway', serif; 
+}
+
 .page_main_mainContent_right{
     width: 100%;
     background-color: white;
