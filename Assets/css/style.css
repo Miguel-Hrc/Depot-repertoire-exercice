@@ -44,6 +44,11 @@ body{
     font-family: 'Lato', sans-serif;
 }
 
+.page_header_subtitle{
+    color: white;
+    font-family: 'Lato', sans-serif;
+}
+
 .page_main_nav{
     background: #2c1d27;
     display: flex;
